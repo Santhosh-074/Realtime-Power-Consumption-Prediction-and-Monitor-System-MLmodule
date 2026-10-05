@@ -1,0 +1,2 @@
+Models/rf_power_model.pkl filter=lfs diff=lfs merge=lfs -text
+dataset/Power_househol.csv filter=lfs diff=lfs merge=lfs -text
